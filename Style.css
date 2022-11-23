@@ -1,0 +1,431 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
+
+
+header {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 40;
+    font-family: 'Noto Serif', serif;
+
+
+}
+
+.bar {
+    height: 530px;
+    border: 1px solid #e5e5e5;
+    padding: 50px 25px 30px 30px;
+    border-top-left-radius: 60px;
+}
+
+.bar:hover {
+    cursor: pointer;
+    border: 1px solid green;
+}
+
+.bar-1 {
+    height: 530px;
+    border: 1px solid #e5e5e5;
+    padding: 50px 25px 30px 30px;
+    border-top-right-radius: 60px;
+}
+
+.bar-1:hover {
+    cursor: pointer;
+    border: 1px solid green;
+}
+
+
+.Service-Section {
+    margin-top: 50px;
+}
+
+.Service-Section h2 {
+    font-family: 'Noto Serif', serif;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.Service-Section p {
+    font-family: 'Noto Serif', serif;
+
+}
+
+.Service-Section img {
+    margin-left: 165px;
+
+
+}
+
+.Service-Section img:hover {
+    cursor: pointer;
+    height: 80px;
+    width: 90px;
+}
+
+.Service-Section button {
+    font-family: 'Noto Serif', serif;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 203px;
+    margin: 5px 0px 0px 110px;
+    border-radius: 20px;
+}
+
+.Service-Section button:hover {
+    background-color: green;
+}
+
+/* part - 02 */
+
+.Part-2 {
+    margin-top: 50px;
+
+}
+
+.part {
+    height: 530px;
+    border: 1px solid #e5e5e5;
+    padding: 50px 25px 30px 30px;
+    border-top-left-radius: 60px;
+
+}
+
+.part:hover {
+    cursor: pointer;
+    border: 1px solid green;
+}
+
+.part-1 {
+    height: 530px;
+    border: 1px solid #e5e5e5;
+    padding: 50px 25px 30px 30px;
+    border-top-right-radius: 60px;
+
+}
+
+.part-1:hover {
+    cursor: pointer;
+    border: 1px solid green;
+}
+
+.Part-2 h2 {
+    font-family: 'Noto Serif', serif;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.Part-2 p {
+    font-family: 'Noto Serif', serif;
+}
+
+.Part-2 img {
+    margin-left: 165px;
+}
+
+.Part-2 img:hover {
+    cursor: pointer;
+    height: 80px;
+    width: 90px;
+}
+
+#Btn {
+    font-family: 'Noto Serif', serif;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 203px;
+    margin: 5px 0px 0px 110px;
+    border-radius: 20px;
+}
+
+#Btn button:hover {
+    background-color: green;
+}
+
+/* part - 03 */
+
+
+.Part-3 {
+    margin-top: 50px;
+}
+
+.Part-03 {
+    height: 530px;
+    border: 1px solid #e5e5e5;
+    padding: 50px 25px 30px 30px;
+    border-top-left-radius: 60px;
+
+}
+
+.Part-03:hover {
+    cursor: pointer;
+    border: 1px solid green;
+}
+
+.second {
+    height: 530px;
+    border: 1px solid #e5e5e5;
+    padding: 50px 25px 30px 30px;
+    border-top-right-radius: 60px;
+
+}
+
+.second:hover {
+    cursor: pointer;
+    border: 1px solid green;
+}
+
+.part-3 h2 {
+    font-family: 'Noto Serif', serif;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.Part-3 p {
+    font-family: 'Noto Serif', serif;
+}
+
+.Part-3 img {
+    margin-left: 165px;
+}
+
+.Part-3 img:hover {
+    cursor: pointer;
+    height: 80px;
+    width: 90px;
+}
+
+#Botton {
+    font-family: 'Noto Serif', serif;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 203px;
+    margin: 5px 0px 0px 110px;
+    border-radius: 20px;
+}
+
+#Botton button:hover {
+    background-color: green;
+}
+
+/* part - 04 */
+
+.Travel-section {
+    margin-top: 50px;
+}
+
+
+.Travel {
+    height: 700px;
+    border: 1px solid #e5e5e5;
+    padding: 50px 25px 30px 30px;
+    border-top-left-radius: 60px;
+
+}
+
+.Travel:hover {
+    cursor: pointer;
+    border: 1px solid green;
+}
+
+.travel-1 {
+    height: 700px;
+    border: 1px solid #e5e5e5;
+    padding: 50px 25px 30px 30px;
+    border-top-right-radius: 60px;
+
+}
+
+.travel-1:hover {
+    cursor: pointer;
+    border: 1px solid green;
+}
+
+.travel-1 {
+    padding: 80px;
+}
+
+.Travel h2 {
+    font-family: 'Noto Serif', serif;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.Travel p {
+    font-family: 'Noto Serif', serif;
+}
+
+.Travel-section img {
+    margin-left: 150px;
+}
+
+.Travel-section img:hover {
+    cursor: pointer;
+    height: 80px;
+    width: 90px;
+}
+
+.Travel-section button {
+    font-family: 'Noto Serif';
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 203px;
+    margin: 5px 0px 0px 110px;
+    border-radius: 20px;
+}
+
+.Travel-section button:hover {
+    background-color: green;
+}
+
+/* Part 5 */
+
+.Bitcoin-Section {
+    margin-top: 50px;
+}
+
+.Bitcoin {
+    height: 400px;
+    border: 1px solid #e5e5e5;
+    padding: 50px 25px 30px 30px;
+    border-top-left-radius: 60px;
+
+}
+
+.Bitcoin:hover {
+    cursor: pointer;
+    border: 1px solid green;
+}
+
+.Bitcoin-1 {
+    height: 400px;
+    border: 1px solid #e5e5e5;
+    padding: 50px 25px 30px 30px;
+    border-top-left-radius: 60px;
+}
+
+
+.Bitcoin-1:hover {
+    cursor: pointer;
+    border: 1px solid green;
+}
+
+.Bitcoin-1 h2 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.Bitcoin-Section h2 {
+    font-family: 'Noto Serif', serif;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.Bitcoin-Section p {
+    font-family: 'Noto Serif', serif;
+}
+
+.Bitcoin-Section img {
+    margin-left: 150px;
+}
+
+.Bitcoin-Section img:hover {
+    cursor: pointer;
+    height: 80px;
+    width: 90px;
+}
+
+.Bitcoin-Section button {
+    font-family: 'Noto Serif';
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 203px;
+    margin: 5px 0px 0px 110px;
+    border-radius: 20px;
+}
+
+.Bitcoin-Section button:hover {
+    background-color: green;
+}
+
+/* Part- 6 */
+
+.consultation-Section {
+    margin-top: 50px;
+}
+
+.Free {
+    height: 400px;
+    border: 1px solid #e5e5e5;
+    padding: 50px 25px 30px 30px;
+    border-top-left-radius: 60px;
+
+}
+
+.Free:hover {
+    cursor: pointer;
+    border: 1px solid green;
+}
+
+.Free-1 {
+    height: 400px;
+    border: 1px solid #e5e5e5;
+    padding: 50px 25px 30px 30px;
+    border-top-left-radius: 60px;
+}
+
+
+.Free-1:hover {
+    cursor: pointer;
+    border: 1px solid green;
+}
+
+.Free-1 h2 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.consultation-Section h2 {
+    font-family: 'Noto Serif', serif;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.consultation-Section p {
+    font-family: 'Noto Serif', serif;
+}
+
+.consultation-Section img {
+    margin-left: 150px;
+}
+
+.consultation-Section img:hover {
+    cursor: pointer;
+    height: 80px;
+    width: 90px;
+}
+
+.consultation-Section button {
+    font-family: 'Noto Serif';
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 203px;
+    margin: 5px 0px 0px 110px;
+    border-radius: 20px;
+}
+
+.consultation-Section button:hover {
+    background-color: green;
+}
